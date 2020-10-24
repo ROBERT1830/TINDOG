@@ -1,2 +1,1 @@
-# TINDOG
-WEB FOR POTAI
+TinDog Starting Files
